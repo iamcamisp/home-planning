@@ -655,6 +655,16 @@
           "image_url": "https://cdn1.vente-unique.com/thumbnails/product/1631/1631993/large/0/30051771.jpg",
           "brand": "Vente-unique",
           "category": "furniture"
+        },
+        {
+          "name": "Caltenu 110 modular sofa (Venus 2933)",
+          "url": "https://www.moebel1.ch/moebelkollektionen/moebel-kollektion-caltenu/modulares-sofa-caltenu-110.html?variation_id=653718",
+          "status": "planned",
+          "price": 1589,
+          "currency": "CHF",
+          "image_url": "https://img.moebel1.ch/detailed/4717/modulares-sofa-caltenu-110-venus-2933_4717201.jpg",
+          "brand": "Möbel1",
+          "category": "furniture"
         }
       ]
     }
