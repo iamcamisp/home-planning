@@ -645,6 +645,16 @@
           "currency": "CHF",
           "brand": "Maisons du Monde",
           "category": "furniture"
+        },
+        {
+          "name": "LOUSADO corner sofa (left corner, terracotta structured fabric)",
+          "url": "https://de.vente-unique.ch/c/sofa-ohne-schlafmoglichkeit?pid=1631993",
+          "status": "planned",
+          "price": 906.56,
+          "currency": "CHF",
+          "image_url": "https://cdn1.vente-unique.com/thumbnails/product/1631/1631993/large/0/30051771.jpg",
+          "brand": "Vente-unique",
+          "category": "furniture"
         }
       ]
     }
