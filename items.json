@@ -595,6 +595,17 @@
           "currency": "EUR",
           "brand": "Kave Home",
           "category": "lighting"
+        },
+        {
+          "name": "MARE in/outdoor rug (green, 160×230 cm)",
+          "url": "https://micasa.ch/products/mare-teppich-in-und-outdoor?variant=56987180106059",
+          "status": "planned",
+          "dimensions": "W 160 × D 230 cm",
+          "price": 179,
+          "currency": "CHF",
+          "image_url": "https://cdn.shopify.com/s/files/1/0921/4256/7755/files/4120_474_16060_s1.jpg?v=1775733517",
+          "brand": "Micasa",
+          "category": "decor"
         }
       ]
     },
