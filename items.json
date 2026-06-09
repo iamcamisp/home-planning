@@ -347,17 +347,6 @@
       "name": "Kitchen",
       "items": [
         {
-          "name": "Helda stool 65 cm (beige chenille, solid oak) × 4",
-          "url": "https://www.google.com/search?q=Kave+Home+Helda+stool+65+cm+%28beige+chenille%2C+solid+oak%29+%C3%97+4",
-          "status": "planned",
-          "image_url": "images/helda-stool.jpg",
-          "dimensions": "W 46 × D 50 × H 96 cm",
-          "price": 1276,
-          "currency": "CHF",
-          "brand": "Kave Home",
-          "category": "furniture"
-        },
-        {
           "name": "Mini stand mixer (red)",
           "url": "https://www.google.com/search?q=KitchenAid+Mini+stand+mixer+%28red%29",
           "status": "owned",
