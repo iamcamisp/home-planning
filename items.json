@@ -329,6 +329,16 @@
           "image_url": "images/lindbyn-mirror.jpg",
           "brand": "IKEA",
           "category": "decor"
+        },
+        {
+          "name": "CosyLift electric mattress lift",
+          "url": "https://cosyworld.com/en-CH/CosyLift/C07503",
+          "status": "planned",
+          "price": 249,
+          "currency": "CHF",
+          "image_url": "https://cosyworld.com/media/ce/1a/1c/1741776008/01_cosylift_main_pic.png",
+          "brand": "Cosyworld",
+          "category": "furniture"
         }
       ]
     },
