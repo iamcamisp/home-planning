@@ -407,6 +407,17 @@
           "currency": "CHF",
           "brand": "Google",
           "category": "electronics"
+        },
+        {
+          "name": "Marilo storage trunk (banana bark)",
+          "url": "https://www.laredoute.ch/de/ppdp/prod-351181803.aspx?cod=PSN00206203CHDE",
+          "status": "planned",
+          "dimensions": "W 74 × D 39.5 × H 41 cm",
+          "price": 290,
+          "currency": "CHF",
+          "image_url": "https://cdn.laredoute.com/cdn-cgi/image/width=650,height=650,fit=pad,dpr=1/products/5/f/d/5fd3f56c5ddf8d5f5815e6a238272f13.jpg",
+          "brand": "AM.PM",
+          "category": "furniture"
         }
       ]
     },
