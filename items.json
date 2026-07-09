@@ -200,6 +200,17 @@
           "currency": "BRL",
           "brand": "Instituto Terra",
           "category": "decor"
+        },
+        {
+          "name": "Standing Mirror, Silver Edge",
+          "url": "https://www.zarahome.com/ch/verspiegelter-standspiegel-mit-silberfarbenem-rand-l43336106?srch=true&searchTerm=Spiegel&pelement=507772505&colorId=581",
+          "status": "planned",
+          "image_url": "images/zarahome-standing-mirror.jpg",
+          "dimensions": "W 90 × H 170 × D 2.5 cm",
+          "price": 349,
+          "currency": "CHF",
+          "brand": "Zara Home",
+          "category": "decor"
         }
       ]
     },
