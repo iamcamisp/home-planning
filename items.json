@@ -350,6 +350,16 @@
           "image_url": "https://cosyworld.com/media/ce/1a/1c/1741776008/01_cosylift_main_pic.png",
           "brand": "Cosyworld",
           "category": "furniture"
+        },
+        {
+          "name": "Wind Calm ceiling fan (natural wood)",
+          "url": "https://www.google.com/search?q=Wind+Calm+ceiling+fan+%28natural+wood%29",
+          "status": "planned",
+          "image_url": "images/wind-calm-fan.jpg",
+          "price": 129.95,
+          "currency": "CHF",
+          "brand": "Create",
+          "category": "electronics"
         }
       ]
     },
