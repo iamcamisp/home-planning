@@ -70,7 +70,7 @@ function populateCategoryFilter() {
   sel.innerHTML = opts.join("");
 }
 
-const STATUS_ORDER = { owned: 1, planned: 2, "to-sell": 3, sold: 4 };
+const STATUS_ORDER = { owned: 1, planned: 2, "to-sell": 3, sold: 4, returned: 5 };
 
 function render() {
   if (!DATA) return;
@@ -152,6 +152,7 @@ function renderCard(it) {
   }
   if ((status === "owned" || status === "to-sell") && it.date_bought) parts.push(escape(fmtDate(it.date_bought)));
   if (status === "sold" && it.date_sold) parts.push(escape(`sold ${fmtDate(it.date_sold)}`));
+  if (status === "returned" && it.date_returned) parts.push(escape(`returned ${fmtDate(it.date_returned)}`));
   const line = parts.length
     ? `<div class="meta">${parts.join(" · ")}</div>`
     : "";
@@ -163,7 +164,8 @@ function renderCard(it) {
     status === "owned" ? "Owned" :
     status === "planned" ? "Planned" :
     status === "to-sell" ? "To sell" :
-    status === "sold" ? "Sold" : "";
+    status === "sold" ? "Sold" :
+    status === "returned" ? "Returned" : "";
   const tag = tagText ? `<div class="status-tag tag-${status}">${tagText}</div>` : "";
 
   return `

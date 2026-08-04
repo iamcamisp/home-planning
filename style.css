@@ -233,10 +233,15 @@ main {
 .card .tag-planned { color: var(--ink); background: transparent; border: 1px solid var(--ink); }
 .card .tag-to-sell { color: #8a4a1f; background: transparent; border: 1px solid #c98b5d; }
 .card .tag-sold { color: var(--muted); background: transparent; border: 1px solid var(--line); }
+/* Returned: gone like Sold, but dashed to read as "sent back", not "sold on" */
+.card .tag-returned { color: var(--muted); background: transparent; border: 1px dashed var(--line); }
 
 .card.status-sold .name,
-.card.status-sold .meta { color: var(--muted); }
-.card.status-sold .image img { opacity: 0.7; }
+.card.status-sold .meta,
+.card.status-returned .name,
+.card.status-returned .meta { color: var(--muted); }
+.card.status-sold .image img,
+.card.status-returned .image img { opacity: 0.7; }
 
 /* Status filter dropdown */
 .filters {
