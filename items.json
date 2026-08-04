@@ -721,6 +721,17 @@
           "image_url": "https://img.moebel1.ch/detailed/4717/modulares-sofa-caltenu-110-venus-2933_4717201.jpg",
           "brand": "Möbel1",
           "category": "furniture"
+        },
+        {
+          "name": "MYSTY 3-seater sofa (rust orange, 240 cm)",
+          "url": "https://ch.mycs.com/produkt/e42GolAdZhOmH-",
+          "status": "planned",
+          "dimensions": "W 240 × D 112 × H 71 cm",
+          "price": 1449,
+          "currency": "CHF",
+          "image_url": "https://www.mycs.com/hires/7053538f2b94bde5d08276e1cdd6305a.jpg",
+          "brand": "MYCS",
+          "category": "furniture"
         }
       ]
     }
