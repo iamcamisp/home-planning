@@ -356,10 +356,12 @@
           "url": "https://www.google.com/search?q=Wind+Calm+ceiling+fan+%28natural+wood%29",
           "status": "owned",
           "image_url": "images/wind-calm-fan.jpg",
-          "price": 129.95,
-          "currency": "CHF",
+          "price": 154.95,
+          "currency": "EUR",
           "brand": "Create",
-          "category": "electronics"
+          "category": "electronics",
+          "date_bought": "2026-07-15",
+          "dimensions": "Ø 132 cm"
         }
       ]
     },
@@ -638,6 +640,18 @@
           "image_url": "https://cdn.shopify.com/s/files/1/0921/4256/7755/files/4120_474_16060_s1.jpg?v=1775733517",
           "brand": "Micasa",
           "category": "decor"
+        },
+        {
+          "name": "KOLBJÖRN cabinet (beige, outdoor/indoor)",
+          "url": "https://www.ikea.com/ch/en/p/kolbjoern-cabinet-in-outdoor-beige-60601862/",
+          "date_bought": "2026-07-20",
+          "dimensions": "W 90 × D 35 × H 161 cm",
+          "status": "owned",
+          "image_url": "images/kolbjorn-cabinet.jpg",
+          "price": 199.0,
+          "currency": "CHF",
+          "brand": "IKEA",
+          "category": "furniture"
         }
       ]
     },
