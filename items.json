@@ -211,6 +211,18 @@
           "currency": "CHF",
           "brand": "Zara Home",
           "category": "decor"
+        },
+        {
+          "name": "Smart Air Purifier 4 Pro",
+          "url": "https://www.google.com/search?q=Xiaomi+Smart+Air+Purifier+4+Pro",
+          "status": "sold",
+          "sold_price": 90,
+          "currency": "CHF",
+          "date_sold": "2026-08-16",
+          "image_url": "images/xiaomi-air-purifier-4-pro.png",
+          "dimensions": "W 27.5 × D 27.5 × H 68 cm",
+          "brand": "Xiaomi",
+          "category": "appliances"
         }
       ]
     },
